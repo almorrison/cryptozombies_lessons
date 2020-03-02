@@ -1,5 +1,5 @@
 # cryptozombies_lessons
-Aaron Morrison/
+Aaron Morrison\
 cryptozombies lessons for csc_4980
 
 Code from cryptozombies lesson assignments
